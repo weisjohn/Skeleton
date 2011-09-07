@@ -1,5 +1,6 @@
-Skeleton fork
+Skeleton
 ==================================
+
 
 What is this
 -------------------------------------------------------
@@ -8,7 +9,7 @@ This is a fork of https://github.com/dhgamache/Skeleton
 
 What have I changed
 -------------------------------------------------------
-I've renamed some directories
+I've renamed some directories:
 <table>
   <tr>
     <th>old name</th><th>new name</th>
@@ -25,3 +26,7 @@ I've renamed some directories
 </table>
 
 
+work to be done:
+---------------------------------------------------
+* local copy of jQuery for Google-CDN failure event fallback
+* reverse the order of the media queries to target mobile first
